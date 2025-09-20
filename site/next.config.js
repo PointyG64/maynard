@@ -4,10 +4,10 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Maynards Registry',
+    description: 'My list of Kasm Workspaces',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://pointyg64.github.io/kasm-registry',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
