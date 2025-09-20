@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Maynards Registry',
     description: 'My list of Kasm Workspaces',
     icon: '/img/logo.svg',
-    listUrl: 'https://pointyg64.github.io/kasm-registry',
+    listUrl: 'https://pointyg64.github.io/maynard-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
